@@ -1,0 +1,5 @@
+name: BlueSkeleton
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+description: Turns players into blue skeletons after they die.
